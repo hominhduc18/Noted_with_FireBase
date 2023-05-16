@@ -1,5 +1,5 @@
 # Noted_with_FireBase
-Hello World
+Write a note taking app using java language, combined with firebase to get realtime
 
 
 ![image](https://user-images.githubusercontent.com/90144686/218492017-65c1f670-1b46-4504-8f9d-e1995c8c1db0.png)
